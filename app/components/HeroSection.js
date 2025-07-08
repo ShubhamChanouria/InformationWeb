@@ -24,6 +24,7 @@ const HeroSection = () => {
           Join our Community
         </a>
 
+
         {/* Down Arrow */}
         <div className="absolute bottom-10 animate-bounce">
           <FaArrowDown size={24} className="text-purple-300" />
